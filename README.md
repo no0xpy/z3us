@@ -2,18 +2,18 @@
 Z3US (Zeus) est un multitool codé en python. Il comprend des outils de bases pouvant êtres utiles dans de nombreux domaines.
 
 # Aperçu
-Voici la liste des outils présents dans Z3US:
- 1 - IP Lookup
- 2 - Status Checker
- 3 - WHOIS Lookup
- 4 - Ports Scanner
- 5 - Identity Generator
- 6 - Phone Lookup
- 7 - Password Generator
- 8 - HTTP Requests Sender
- 9 - Discord Webhook Remover
- 10 - Multiple Searcher
- 11 - MiniFetch
+Voici la liste des outils présents dans Z3US:<br>
+ 1 - IP Lookup<br>
+ 2 - Status Checker<br>
+ 3 - WHOIS Lookup<br>
+ 4 - Ports Scanner<br>
+ 5 - Identity Generator<br>
+ 6 - Phone Lookup<br>
+ 7 - Password Generator<br>
+ 8 - HTTP Requests Sender<br>
+ 9 - Discord Webhook Remover<br>
+ 10 - Multiple Searcher<br>
+ 11 - MiniFetch<br>
 
  # Téléchargement
  
