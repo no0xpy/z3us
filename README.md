@@ -18,4 +18,4 @@ Voici la liste des outils présents dans Z3US:<br>
  <img src="https://github.com/no0xpy/z3us/blob/main/assets/menu.png?raw=true"></img>
 # Téléchargement
 1 - Installer python: https://www.youtube.com/watch?v=7SSSocyUBnA (Merci d'installer la dernière version de python disponible) <br>
-2 - 
+2 - Retournez sur la page principale du projet et cliquez sur la dernière version disponlible dans la section "Releases" <img src=""></img>
