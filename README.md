@@ -22,3 +22,6 @@ Voici la liste des outils présents dans Z3US:<br>
 3 - Cliquez sur "Source code (.ZIP)" ce qui téléchargera un fichier. Ensuite, décompressez ce fichier.
 4 - Ouvrez un terminal dans le dossier et éxecutez: ```pip install requirements.txt```
 5 - Double cliquez sur le fichier "menu.py"
+
+# Bugs
+En cas de soucis, merci de le préciser ici: https://github.com/no0xpy/z3us/issues
