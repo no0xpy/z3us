@@ -14,6 +14,8 @@ Voici la liste des outils présents dans Z3US:<br>
  9 - Discord Webhook Remover<br>
  10 - Multiple Searcher<br>
  11 - MiniFetch<br>
+ <br>
+ <img src="https://github.com/no0xpy/z3us/blob/main/menu.png?raw=true"></img>
 
  # Téléchargement
  
