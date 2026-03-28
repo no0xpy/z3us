@@ -15,7 +15,7 @@ Voici la liste des outils présents dans Z3US:<br>
  10 - Multiple Searcher<br>
  11 - MiniFetch<br>
  <br>
- <img src="https://github.com/no0xpy/z3us/blob/main/menu.png?raw=true"></img>
+ <img src="https://github.com/no0xpy/z3us/blob/main/assets/menu.png?raw=true"></img>
 # Téléchargement
 1 - Installer python: https://www.youtube.com/watch?v=7SSSocyUBnA (Merci d'installer la dernière version de python disponible) <br>
 2 - 
