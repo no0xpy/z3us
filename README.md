@@ -1,7 +1,6 @@
 # Z3US
 Z3US (Zeus) est un multitool codé en python. Il comprend des outils de bases pouvant êtres utiles dans de nombreux domaines.<br><br>
 <img src="https://forthebadge.com/badges/made-with-python.svg"></img>
-<img src="https://forthebadge.com/badges/open-source.svg"></img>
 # Aperçu
 Voici la liste des outils présents dans Z3US:<br>
  1 - IP Lookup<br>
