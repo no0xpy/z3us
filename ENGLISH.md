@@ -1,2 +1,3 @@
 # Z3US - ENGLISH
-S00N
+Translated by Claude AI.
+Developped by Nox
