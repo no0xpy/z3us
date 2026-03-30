@@ -1,5 +1,5 @@
 # Z3US
-English: https://github.com/no0xpy/z3us/blob/main/ENGLISH.md
+English: https://github.com/no0xpy/z3us/blob/main/ENGLISH.md <br>
 Z3US (Zeus) est un multitool codé en python. Il comprend des outils de bases pouvant êtres utiles dans de nombreux domaines. Il est conçu pour windows.<br><br>
 <img src="https://forthebadge.com/badges/made-with-python.svg"></img>
 # Aperçu
