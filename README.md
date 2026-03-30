@@ -20,7 +20,7 @@ Voici la liste des outils présents dans Z3US:<br>
 # Téléchargement
 1 - Installer python: https://www.youtube.com/watch?v=7SSSocyUBnA (Merci d'installer la dernière version de python disponible) <br>
 2 - Retournez sur la page principale du projet et cliquez sur la dernière version disponlible dans la section "Releases" <img src="https://github.com/no0xpy/z3us/blob/main/assets/releases.png?raw=true"></img><br>
-3 - Cliquez sur "Source code (.ZIP)" ce qui téléchargera un fichier. Ensuite, décompressez ce fichier.<br>
+3 - Cliquez sur la langue que vous préférez ce qui téléchargera un fichier. Ensuite, décompressez ce fichier.<br>
 4 - Ouvrez un terminal dans le dossier et éxecutez: 
 ```shell
 pip install requirements.txt
